@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Call Lock</string>
+    <string name="username">Enter Your User Name</string>
+    <string name="password">Enter Your Password</string>
+    <string name="newpassword">Enter Your New Password</string>
+    <string name="enter">Enter</string>
+    <string name="introduction">For First Time \n Enter Your Username and Password \n which will use to enter the App</string>
+    <string name="error">Your \"Username\" OR \"Password\" is Incorrict</string>
+    <string name="lockcalls">keep Calls Locked</string>
+    <string name="action_settings">Settings</string>
+    <string name="prefix">Prefix</string>
+    <string name="change">Change</string>
+    <string name="changed">Prefix is Changed</string>
+    <string name="prefix_info">Prefix is number you put before the number you call if you use the default dialer of phone </string>
+    <string name="enter_number">If you want to call some one dirictly enter the Number 
+        or pick it from Contacts</string>
+    
+    <string name="contacts">Contacts</string>
+    <string name="number">Number</string>
+    <string name="call">Call</string>
+    
+
+</resources>
